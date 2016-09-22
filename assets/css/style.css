@@ -1,4 +1,8 @@
 .jumbotron {
-	background-color: brown !important;
+	background-color: #7f462c !important;
 	color: white !important;
+}
+
+th {
+	font-weight: bold !important;
 }
